@@ -99,8 +99,8 @@
                                     "not": {}
                                 },
                                 {
-                                    "type": "string",
-                                    "description": "Location of a non-standard Nixpacks config file"
+                                    
+                                    "import": "Hypercorn==0.16.0"
                                 }
                             ]
                         },
