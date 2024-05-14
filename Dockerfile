@@ -2,7 +2,7 @@
 FROM python:3.11-slim
 
 # Instalar las dependencias
-RUN pip install -r requirements.txt
+RUN pip install Hypercorn
 
 
 # Exponer el puerto 4500 en el contenedor
